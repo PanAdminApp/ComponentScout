@@ -1,0 +1,4006 @@
+[
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/01",
+    "SapBm": "",
+    "App": "101",
+    "Megnevezes": "LL10R006A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL10R006A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/01",
+    "SapBm": "",
+    "Megnevezes": "LL10R008A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL10R008A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/02",
+    "SapBm": "",
+    "Megnevezes": "LL10R018A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL10R018A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/03",
+    "SapBm": "",
+    "Megnevezes": "LL10R019",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL10R019.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/04",
+    "SapBm": "2300550001/77",
+    "Megnevezes": "LL10Z006C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL10Z006C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/05",
+    "SapBm": "2300550001/78",
+    "Megnevezes": "LL12Z090",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z090.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/06",
+    "SapBm": "2300550001/79",
+    "Megnevezes": "LL12Z108C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z108C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/07",
+    "SapBm": "2300550001/80",
+    "Megnevezes": "LL12Z109PBC",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z109PBC.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/08",
+    "SapBm": "2300550001/81",
+    "Megnevezes": "LL12Z113PB",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z113PB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/09",
+    "SapBm": "2300550001/82",
+    "Megnevezes": "LL12Z117",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z117.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/10",
+    "SapBm": "2300550001/83",
+    "Megnevezes": "LL12Z119PBB",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z119PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/11",
+    "SapBm": "2300550001/84",
+    "Megnevezes": "LL12Z120B",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z120B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/12",
+    "SapBm": "2300550001/85",
+    "Megnevezes": "LL12Z121A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z121A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/13",
+    "SapBm": "2300550001/86",
+    "Megnevezes": "LL12Z122C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z122C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/14",
+    "SapBm": "2300550001/87",
+    "Megnevezes": "LL12Z123B",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z123B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/15",
+    "SapBm": "2300550001/88",
+    "Megnevezes": "LL12Z127C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z127C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/02",
+    "SapBm": "2300550003/22",
+    "Megnevezes": "LL12Z128B",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z128B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/16",
+    "SapBm": "2300550001/89",
+    "Megnevezes": "LL12Z130",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z130.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/01",
+    "SapBm": "2300550006/17",
+    "Megnevezes": "LL12Z142PB",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL12Z142PB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/17",
+    "SapBm": "",
+    "Megnevezes": "LL15R002PBA",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL15R002PBA.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/03",
+    "SapBm": "",
+    "Megnevezes": "LL15R003PBA",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL15R003PBA.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/18",
+    "SapBm": "2300550001/90",
+    "Megnevezes": "LL15Z010A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL15Z010A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/19",
+    "SapBm": "",
+    "Megnevezes": "LL20R020B",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LL20R020B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/20",
+    "SapBm": "",
+    "Megnevezes": "LLSOR001",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOR001.jpg",
+    "ChildParts": [
+      {
+        "Sap": "",
+        "Megnevezes": "NGFOR501",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/21",
+    "SapBm": "",
+    "Megnevezes": "LLSOR022",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOR022.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/34",
+        "Megnevezes": "LL30R501B",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550001/35",
+        "Megnevezes": "LL10R521A",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/22",
+    "SapBm": "",
+    "Megnevezes": "LLSOR023A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOR023A.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/36",
+        "Megnevezes": "LL10R522A",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/23",
+    "SapBm": "",
+    "Megnevezes": "LLSOR024",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOR024.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/37",
+        "Megnevezes": "LL10R523",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/04",
+    "SapBm": "",
+    "Megnevezes": "LLSOR025A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOR025A.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550003/10",
+        "Megnevezes": "LL10R524A",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/05",
+    "SapBm": "",
+    "Megnevezes": "LLSOR026",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOR026.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550003/11",
+        "Megnevezes": "LL10R525",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550002/01",
+    "SapBm": "2300550002/07",
+    "Megnevezes": "LLSOZ127B",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ127B.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550002/03",
+        "Megnevezes": "LL20Z565A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550002/04",
+        "Megnevezes": "LL20Z564A",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/24",
+    "SapBm": "2300550001/91",
+    "Megnevezes": "LLSOZ129A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ129A.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/38",
+        "Megnevezes": "LL12Z826",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550001/39",
+        "Megnevezes": "LL10Z507A",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/25",
+    "SapBm": "2300550001/92",
+    "Megnevezes": "LLSOZ132A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ132A.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/40",
+        "Megnevezes": "LL20Z570A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/41",
+        "Megnevezes": "LL20Z569A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/42",
+        "Megnevezes": "LL20Z563PBB",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/06",
+    "SapBm": "2300550003/23",
+    "Megnevezes": "LLSOZ136A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ136A.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550003/12",
+        "Megnevezes": "LL20Z575A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550003/13",
+        "Megnevezes": "LL20Z573A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550003/14",
+        "Megnevezes": "LL20Z572PBA",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550004/01",
+    "SapBm": "2300550004/04",
+    "Megnevezes": "LLSOZ137A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ137A.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550004/02",
+        "Megnevezes": "LL20Z576A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550004/03",
+        "Megnevezes": "LL20Z574A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550003/14",
+        "Megnevezes": "LL20Z572PBA",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/07",
+    "SapBm": "2300550003/24",
+    "Megnevezes": "LLSOZ138A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ138A.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/38",
+        "Megnevezes": "LL12Z826",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550003/15",
+        "Megnevezes": "LL10Z508A",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/26",
+    "SapBm": "2300550001/93",
+    "Megnevezes": "LLSOZ149D",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ149D.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/43",
+        "Megnevezes": "LL12Z869B",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/44",
+        "Megnevezes": "LL12Z868",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/45",
+        "Megnevezes": "LL12Z867C",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550001/46",
+        "Megnevezes": "LL12Z866C",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/47",
+        "Megnevezes": "LL12Z865B",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/27",
+    "SapBm": "2300550001/94",
+    "Megnevezes": "LLSOZ150C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ150C.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/48",
+        "Megnevezes": "LL12Z871PBA",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/49",
+        "Megnevezes": "LL12Z870PBB",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/28",
+    "SapBm": "2300550001/95",
+    "Megnevezes": "LLSOZ154C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ154C.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/50",
+        "Megnevezes": "LL12Z920",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550001/51",
+        "Megnevezes": "LL12Z890",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/52",
+        "Megnevezes": "LL12Z889C",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/53",
+        "Megnevezes": "LL12Z888A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/54",
+        "Megnevezes": "LL12Z886PBB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/55",
+        "Megnevezes": "LL12Z887B",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/56",
+        "Megnevezes": "LL12Z810",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550001/57",
+        "Megnevezes": "LL12Z885B",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/58",
+        "Megnevezes": "LL12Z884B",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/02",
+    "SapBm": "2300550006/03",
+    "Megnevezes": "LLSOZ155E",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ155E.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550006/04",
+        "Megnevezes": "LL12Z892D",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550006/05",
+        "Megnevezes": "LL12Z891B",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/29",
+    "SapBm": "2300550001/96",
+    "Megnevezes": "LLSOZ155C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ155C.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/59",
+        "Megnevezes": "LL12Z892C",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/60",
+        "Megnevezes": "LL12Z891",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/30",
+    "SapBm": "2300550001/97",
+    "Megnevezes": "LLSOZ156C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ156C.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/61",
+        "Megnevezes": "LLSOZ503C",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/64",
+        "Megnevezes": "LL12Z895A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/65",
+        "Megnevezes": "LL12Z894PBB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/66",
+        "Megnevezes": "LL12Z700",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/67",
+        "Megnevezes": "LL12Z893C",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/62",
+        "Megnevezes": "LL12Z897PBC",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/63",
+        "Megnevezes": "LL12Z896PBC",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/64",
+        "Megnevezes": "LL12Z895A",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/31",
+    "SapBm": "2300550001/98",
+    "Megnevezes": "LLSOZ157A",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ157A.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/68",
+        "Megnevezes": "LL12Z899PBA",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/69",
+        "Megnevezes": "LL12Z898PBA",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550005/01",
+    "SapBm": "2300550005/02",
+    "Megnevezes": "LLSOZ167B",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ167B.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/70",
+        "Megnevezes": "LL20Z584",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550005/03",
+        "Megnevezes": "LL12Z932",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550005/04",
+        "Megnevezes": "LL12Z930",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550006/14",
+        "Megnevezes": "LL12Z929",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550005/06",
+        "Megnevezes": "LL12Z927PBB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550005/07",
+        "Megnevezes": "LL12Z925PBA",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550002/02",
+    "SapBm": "2300550002/08",
+    "Megnevezes": "LLSOZ158C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ158C.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/70",
+        "Megnevezes": "LL20Z584",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/71",
+        "Megnevezes": "LL12Z906",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/72",
+        "Megnevezes": "LL12Z905A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550002/05",
+        "Megnevezes": "LL12Z923PBB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550002/06",
+        "Megnevezes": "LL12Z900PBB",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/10",
+    "SapBm": "2300550006/11",
+    "Megnevezes": "LLSOZ168B",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ168B.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/70",
+        "Megnevezes": "LL20Z584",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550006/12",
+        "Megnevezes": "LL12Z933",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550006/13",
+        "Megnevezes": "LL12Z931",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550006/14",
+        "Megnevezes": "LL12Z929",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550006/15",
+        "Megnevezes": "LL12Z928PBB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550006/16",
+        "Megnevezes": "LL12Z926PBA",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/32",
+    "SapBm": "2300550001/99",
+    "Megnevezes": "LLSOZ159C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ159C.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/70",
+        "Megnevezes": "LL20Z584",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/71",
+        "Megnevezes": "LL12Z906",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/72",
+        "Megnevezes": "LL12Z905A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/73",
+        "Megnevezes": "LL12Z924PBB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/74",
+        "Megnevezes": "LL12Z901PBB",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/06",
+    "SapBm": "2300550006/07",
+    "Megnevezes": "LLSOZ160E",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ160E.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/75",
+        "Megnevezes": "LL20Z562B",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550006/09",
+        "Megnevezes": "LL15Z529D",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/33",
+    "SapBm": "2300550001/100",
+    "Megnevezes": "LLSOZ160D",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ160D.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/75",
+        "Megnevezes": "LL20Z562B",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550001/76",
+        "Megnevezes": "LL15Z529C",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/08",
+    "SapBm": "2300550003/25",
+    "Megnevezes": "LLSOZ161C",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ161C.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/50",
+        "Megnevezes": "LL12Z920",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550003/16",
+        "Megnevezes": "LL12Z911",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550003/17",
+        "Megnevezes": "LL12Z910C",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550003/18",
+        "Megnevezes": "LL12Z909A",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550003/19",
+        "Megnevezes": "LL12Z908PBB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550003/20",
+        "Megnevezes": "LL12Z907B",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/56",
+        "Megnevezes": "LL12Z810",
+        "Mennyiseg": 2
+      },
+      {
+        "Sap": "2300550001/57",
+        "Megnevezes": "LL12Z885B",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/58",
+        "Megnevezes": "LL12Z884B",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/09",
+    "SapBm": "2300550003/26",
+    "Megnevezes": "LLSOZ162D",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "LLSOZ162D.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/75",
+        "Megnevezes": "LL20Z562B",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550003/21",
+        "Megnevezes": "LL15Z530C",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés",
+      "Csomagolás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550002/09",
+    "SapBm": "",
+    "Megnevezes": "NG20Z030",
+    "DBora": "60",
+    "Level": "1",
+    "KepFajlNev": "NG20Z030A.jpg",
+    "ChildParts": [],
+    "Folyamatok": []
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "",
+    "SapBm": "",
+    "Megnevezes": "NGFOR501",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "NGFOR501.jpg",
+    "ChildParts": [],
+    "Folyamatok": []
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/34",
+    "SapBm": "",
+    "Megnevezes": "LL30R501B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL30R501B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/35",
+    "SapBm": "",
+    "Megnevezes": "LL10R521A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL10R521A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/36",
+    "SapBm": "",
+    "Megnevezes": "LL10R522A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL10R522A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/37",
+    "SapBm": "",
+    "Megnevezes": "LL10R523",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL10R523.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/10",
+    "SapBm": "",
+    "Megnevezes": "LL10R524A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL10R524A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/11",
+    "SapBm": "",
+    "Megnevezes": "LL10R525",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL10R525.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550002/03",
+    "SapBm": "",
+    "Megnevezes": "LL20Z565A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z565A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550002/04",
+    "SapBm": "",
+    "Megnevezes": "LL20Z564A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z564A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/38",
+    "SapBm": "",
+    "Megnevezes": "LL12Z826",
+    "KepFajlNev": "LL12Z826.jpg",
+    "ChildParts": [],
+    "Folyamatok": [ "Lézervágás 80 db/óra", "Hegesztés 20 db/óra" ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/39",
+    "SapBm": "",
+    "Megnevezes": "LL10Z507A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL10Z507A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/40",
+    "SapBm": "",
+    "Megnevezes": "LL20Z570A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z570A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/41",
+    "SapBm": "",
+    "Megnevezes": "LL20Z569A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z569A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/42",
+    "SapBm": "",
+    "Megnevezes": "LL20Z563PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z563PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/12",
+    "SapBm": "",
+    "Megnevezes": "LL20Z575A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z575A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/13",
+    "SapBm": "",
+    "Megnevezes": "LL20Z573A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z573A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/14",
+    "SapBm": "",
+    "Megnevezes": "LL20Z572PBA",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z572PBA.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550004/02",
+    "SapBm": "",
+    "Megnevezes": "LL20Z576A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z576A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550004/03",
+    "SapBm": "",
+    "Megnevezes": "LL20Z574A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z574A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/15",
+    "SapBm": "",
+    "Megnevezes": "LL10Z508A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL10Z508A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/43",
+    "SapBm": "",
+    "Megnevezes": "LL12Z869B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z869B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/44",
+    "SapBm": "",
+    "Megnevezes": "LL12Z868",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z868.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/45",
+    "SapBm": "",
+    "Megnevezes": "LL12Z867C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z867C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/46",
+    "SapBm": "",
+    "Megnevezes": "LL12Z866C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z866C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/47",
+    "SapBm": "",
+    "Megnevezes": "LL12Z865B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z865B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/48",
+    "SapBm": "",
+    "Megnevezes": "LL12Z871PBA",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z871PBA.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/49",
+    "SapBm": "",
+    "Megnevezes": "LL12Z870PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z870PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/50",
+    "SapBm": "",
+    "Megnevezes": "LL12Z920",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z920.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/51",
+    "SapBm": "",
+    "Megnevezes": "LL12Z890",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z890.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/52",
+    "SapBm": "",
+    "Megnevezes": "LL12Z889C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z889C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/53",
+    "SapBm": "",
+    "Megnevezes": "LL12Z888A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z888A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/54",
+    "SapBm": "",
+    "Megnevezes": "LL12Z886PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z886PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/55",
+    "SapBm": "",
+    "Megnevezes": "LL12Z887B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z887B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/56",
+    "SapBm": "",
+    "Megnevezes": "LL12Z810",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z810.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/57",
+    "SapBm": "",
+    "Megnevezes": "LL12Z885B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z885B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/58",
+    "SapBm": "",
+    "Megnevezes": "LL12Z884B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z884B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/04",
+    "SapBm": "",
+    "Megnevezes": "LL12Z892D",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z892D.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/05",
+    "SapBm": "",
+    "Megnevezes": "LL12Z891B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z891B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/59",
+    "SapBm": "",
+    "Megnevezes": "LL12Z892C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z892C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/60",
+    "SapBm": "",
+    "Megnevezes": "LL12Z891",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z891.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/61",
+    "SapBm": "",
+    "Megnevezes": "LLSOZ503C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LLSOZ503C.jpg",
+    "ChildParts": [
+      {
+        "Sap": "2300550001/62",
+        "Megnevezes": "LL12Z897PB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/63",
+        "Megnevezes": "LL12Z896PB",
+        "Mennyiseg": 1
+      },
+      {
+        "Sap": "2300550001/64",
+        "Megnevezes": "LL12Z895",
+        "Mennyiseg": 1
+      }
+    ],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/64",
+    "SapBm": "",
+    "Megnevezes": "LL12Z895A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z895A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/65",
+    "SapBm": "",
+    "Megnevezes": "LL12Z894PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z894PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/66",
+    "SapBm": "",
+    "Megnevezes": "LL12Z700",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z700.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/67",
+    "SapBm": "",
+    "Megnevezes": "LL12Z893C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z893C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/62",
+    "SapBm": "",
+    "Megnevezes": "LL12Z897PBC",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z897PBC.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/63",
+    "SapBm": "",
+    "Megnevezes": "LL12Z896PBC",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z896PBC.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/68",
+    "SapBm": "",
+    "Megnevezes": "LL12Z899PBA",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z899PBA.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/69",
+    "SapBm": "",
+    "Megnevezes": "LL12Z898PBA",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z898PBA.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/70",
+    "SapBm": "",
+    "Megnevezes": "LL20Z584",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z584.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550005/03",
+    "SapBm": "",
+    "Megnevezes": "LL12Z932",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z932.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550005/04",
+    "SapBm": "",
+    "Megnevezes": "LL12Z930",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z930.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/14",
+    "SapBm": "",
+    "Megnevezes": "LL12Z929",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z929.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550005/06",
+    "SapBm": "",
+    "Megnevezes": "LL12Z927PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z927PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550005/07",
+    "SapBm": "",
+    "Megnevezes": "LL12Z925PBA",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z925PBA.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/71",
+    "SapBm": "",
+    "Megnevezes": "LL12Z906",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z906.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/72",
+    "SapBm": "",
+    "Megnevezes": "LL12Z905A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z905A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550002/05",
+    "SapBm": "",
+    "Megnevezes": "LL12Z923PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z923PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550002/06",
+    "SapBm": "",
+    "Megnevezes": "LL12Z900PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z900PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/12",
+    "SapBm": "",
+    "Megnevezes": "LL12Z933",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z933.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/13",
+    "SapBm": "",
+    "Megnevezes": "LL12Z931",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z931.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/15",
+    "SapBm": "",
+    "Megnevezes": "LL12Z928PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z928PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/16",
+    "SapBm": "",
+    "Megnevezes": "LL12Z926PBA",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z926PBA.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/73",
+    "SapBm": "",
+    "Megnevezes": "LL12Z924PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z924PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/74",
+    "SapBm": "",
+    "Megnevezes": "LL12Z901PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z901PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/75",
+    "SapBm": "",
+    "Megnevezes": "LL20Z562B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL20Z562B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550006/09",
+    "SapBm": "",
+    "Megnevezes": "LL15Z529D",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL15Z529D.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550001/76",
+    "SapBm": "",
+    "Megnevezes": "LL15Z529C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL15Z529C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/16",
+    "SapBm": "",
+    "Megnevezes": "LL12Z911",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z911.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/17",
+    "SapBm": "",
+    "Megnevezes": "LL12Z910C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z910C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/18",
+    "SapBm": "",
+    "Megnevezes": "LL12Z909A",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z909A.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/19",
+    "SapBm": "",
+    "Megnevezes": "LL12Z908PBB",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z908PBB.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés",
+      "Festés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/20",
+    "SapBm": "",
+    "Megnevezes": "LL12Z907B",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL12Z907B.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SapNy": "2300550003/21",
+    "SapBm": "",
+    "Megnevezes": "LL15Z530C",
+    "DBora": "60",
+    "Level": "2",
+    "KepFajlNev": "LL15Z530C.jpg",
+    "ChildParts": [],
+    "Folyamatok": [
+      "Lézervágás",
+      "Hegesztés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SAP": "300550004",
+    "Megnevezes": "Lidl Germany 1-stepper L C625 V1.35 (Scale Left)",
+    "DBora": "60",
+    "Level": "2",
+    "ChildParts": [
+      {
+        "SapNy": "2300550003/01",
+        "SapBm": "",
+        "Megnevezes": "LL10R008A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/02",
+        "SapBm": "",
+        "Megnevezes": "LL10R018A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/03",
+        "SapBm": "",
+        "Megnevezes": "LL10R019",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/04",
+        "SapBm": "2300550001/77",
+        "Megnevezes": "LL10Z006C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/05",
+        "SapBm": "2300550001/78",
+        "Megnevezes": "LL12Z090",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/06",
+        "SapBm": "2300550001/79",
+        "Megnevezes": "LL12Z108C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/07",
+        "SapBm": "2300550001/80",
+        "Megnevezes": "LL12Z109PBC",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/08",
+        "SapBm": "2300550001/81",
+        "Megnevezes": "LL12Z113PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/09",
+        "SapBm": "2300550001/82",
+        "Megnevezes": "LL12Z117",
+        "Darab": 2
+      },
+      {
+        "SapNy": "2300550001/12",
+        "SapBm": "2300550001/85",
+        "Megnevezes": "LL12Z121A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/13",
+        "SapBm": "2300550001/86",
+        "Megnevezes": "LL12Z122C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/14",
+        "SapBm": "2300550001/87",
+        "Megnevezes": "LL12Z123B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/02",
+        "SapBm": "2300550003/22",
+        "Megnevezes": "LL12Z128B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/16",
+        "SapBm": "2300550001/89",
+        "Megnevezes": "LL12Z130",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/03",
+        "SapBm": "",
+        "Megnevezes": "LL15R003PBA",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/18",
+        "SapBm": "2300550001/90",
+        "Megnevezes": "LL15Z010A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/19",
+        "SapBm": "",
+        "Megnevezes": "LL20R020B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/20",
+        "SapBm": "",
+        "Megnevezes": "LLSOR001",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/21",
+        "SapBm": "",
+        "Megnevezes": "LLSOR022",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/04",
+        "SapBm": "",
+        "Megnevezes": "LLSOR025A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/05",
+        "SapBm": "",
+        "Megnevezes": "LLSOR026",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550004/01",
+        "SapBm": "2300550004/04",
+        "Megnevezes": "LLSOZ137A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/07",
+        "SapBm": "2300550003/24",
+        "Megnevezes": "LLSOZ138A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/26",
+        "SapBm": "2300550001/93",
+        "Megnevezes": "LLSOZ149D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/27",
+        "SapBm": "2300550001/94",
+        "Megnevezes": "LLSOZ150C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/29",
+        "SapBm": "2300550001/96",
+        "Megnevezes": "LLSOZ155C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/30",
+        "SapBm": "2300550001/97",
+        "Megnevezes": "LLSOZ156C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/31",
+        "SapBm": "2300550001/98",
+        "Megnevezes": "LLSOZ157A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/32",
+        "SapBm": "2300550001/99",
+        "Megnevezes": "LLSOZ159C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/08",
+        "SapBm": "2300550003/25",
+        "Megnevezes": "LLSOZ161C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/09",
+        "SapBm": "2300550003/26",
+        "Megnevezes": "LLSOZ162D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/09",
+        "SapBm": "",
+        "Megnevezes": "NG20Z030A",
+        "Darab": 4
+      },
+      {
+        "SapNy": "2300550001/10",
+        "SapBm": "2300550001/83",
+        "Megnevezes": "LL12Z119PBB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/11",
+        "SapBm": "2300550001/84",
+        "Megnevezes": "LL12Z120B",
+        "Darab": 1
+      }
+    ],
+    "Folyamatok": [
+      "LPV1 munkaállomás - összeszerelés",
+      "LPS1 munkaállomás - összeszerelés",
+      "LPS2 munkaállomás - összeszerelés",
+      "LPS3 munkaállomás - összeszerelés",
+      "LPS4 munkaállomás - összeszerelés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SAP": "300550003",
+    "Megnevezes": "Lidl Germany 1-stepper L C625 V1.35 (Scale Right)",
+    "DBora": "60",
+    "Level": "2",
+    "ChildParts": [
+      {
+        "SapNy": "2300550003/01",
+        "SapBm": "",
+        "Megnevezes": "LL10R008A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/02",
+        "SapBm": "",
+        "Megnevezes": "LL10R018A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/03",
+        "SapBm": "",
+        "Megnevezes": "LL10R019",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/04",
+        "SapBm": "2300550001/77",
+        "Megnevezes": "LL10Z006C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/05",
+        "SapBm": "2300550001/78",
+        "Megnevezes": "LL12Z090",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/06",
+        "SapBm": "2300550001/79",
+        "Megnevezes": "LL12Z108C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/07",
+        "SapBm": "2300550001/80",
+        "Megnevezes": "LL12Z109PBC",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/08",
+        "SapBm": "2300550001/81",
+        "Megnevezes": "LL12Z113PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/09",
+        "SapBm": "2300550001/82",
+        "Megnevezes": "LL12Z117",
+        "Darab": 2
+      },
+      {
+        "SapNy": "2300550001/12",
+        "SapBm": "2300550001/85",
+        "Megnevezes": "LL12Z121A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/13",
+        "SapBm": "2300550001/86",
+        "Megnevezes": "LL12Z122C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/14",
+        "SapBm": "2300550001/87",
+        "Megnevezes": "LL12Z123B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/02",
+        "SapBm": "2300550003/22",
+        "Megnevezes": "LL12Z128B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/16",
+        "SapBm": "2300550001/89",
+        "Megnevezes": "LL12Z130",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/03",
+        "SapBm": "",
+        "Megnevezes": "LL15R003PBA",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/18",
+        "SapBm": "2300550001/90",
+        "Megnevezes": "LL15Z010A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/19",
+        "SapBm": "",
+        "Megnevezes": "LL20R020B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/20",
+        "SapBm": "",
+        "Megnevezes": "LLSOR001",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/21",
+        "SapBm": "",
+        "Megnevezes": "LLSOR022",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/04",
+        "SapBm": "",
+        "Megnevezes": "LLSOR025A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/05",
+        "SapBm": "",
+        "Megnevezes": "LLSOR026",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/06",
+        "SapBm": "2300550003/23",
+        "Megnevezes": "LLSOZ136A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/07",
+        "SapBm": "2300550003/24",
+        "Megnevezes": "LLSOZ138A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/26",
+        "SapBm": "2300550001/93",
+        "Megnevezes": "LLSOZ149D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/27",
+        "SapBm": "2300550001/94",
+        "Megnevezes": "LLSOZ150C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/29",
+        "SapBm": "2300550001/96",
+        "Megnevezes": "LLSOZ155C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/30",
+        "SapBm": "2300550001/97",
+        "Megnevezes": "LLSOZ156C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/31",
+        "SapBm": "2300550001/98",
+        "Megnevezes": "LLSOZ157A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/02",
+        "SapBm": "2300550002/08",
+        "Megnevezes": "LLSOZ158C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/08",
+        "SapBm": "2300550003/25",
+        "Megnevezes": "LLSOZ161C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/09",
+        "SapBm": "2300550003/26",
+        "Megnevezes": "LLSOZ162D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/09",
+        "SapBm": "",
+        "Megnevezes": "NG20Z030A",
+        "Darab": 4
+      },
+      {
+        "SapNy": "2300550001/10",
+        "SapBm": "2300550001/83",
+        "Megnevezes": "LL12Z119PBB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/11",
+        "SapBm": "2300550001/84",
+        "Megnevezes": "LL12Z120B",
+        "Darab": 1
+      }
+    ],
+    "Folyamatok": [
+      "LPV1 munkaállomás - összeszerelés",
+      "LPS1 munkaállomás - összeszerelés",
+      "LPS2 munkaállomás - összeszerelés",
+      "LPS3 munkaállomás - összeszerelés",
+      "LPS4 munkaállomás - összeszerelés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SAP": "300550002",
+    "Megnevezes": "Lidl Germany 1-stepper XL C625 V1.35 (Scale Left)",
+    "DBora": "60",
+    "Level": "2",
+    "ChildParts": [
+      {
+        "SapNy": "2300550001/02",
+        "SapBm": "",
+        "Megnevezes": "LL10R018A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/03",
+        "SapBm": "",
+        "Megnevezes": "LL10R019",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/04",
+        "SapBm": "2300550001/77",
+        "Megnevezes": "LL10Z006C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/05",
+        "SapBm": "2300550001/78",
+        "Megnevezes": "LL12Z090",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/06",
+        "SapBm": "2300550001/79",
+        "Megnevezes": "LL12Z108C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/07",
+        "SapBm": "2300550001/80",
+        "Megnevezes": "LL12Z109PBC",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/08",
+        "SapBm": "2300550001/81",
+        "Megnevezes": "LL12Z113PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/09",
+        "SapBm": "2300550001/82",
+        "Megnevezes": "LL12Z117",
+        "Darab": 3
+      },
+      {
+        "SapNy": "2300550001/12",
+        "SapBm": "2300550001/85",
+        "Megnevezes": "LL12Z121A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/13",
+        "SapBm": "2300550001/86",
+        "Megnevezes": "LL12Z122C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/14",
+        "SapBm": "2300550001/87",
+        "Megnevezes": "LL12Z123B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/16",
+        "SapBm": "2300550001/89",
+        "Megnevezes": "LL12Z130",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/18",
+        "SapBm": "2300550001/90",
+        "Megnevezes": "LL15Z010A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/19",
+        "SapBm": "",
+        "Megnevezes": "LL20R020B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/20",
+        "SapBm": "",
+        "Megnevezes": "LLSOR001",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/21",
+        "SapBm": "",
+        "Megnevezes": "LLSOR022",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/26",
+        "SapBm": "2300550001/93",
+        "Megnevezes": "LLSOZ149D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/27",
+        "SapBm": "2300550001/94",
+        "Megnevezes": "LLSOZ150C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/29",
+        "SapBm": "2300550001/96",
+        "Megnevezes": "LLSOZ155C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/30",
+        "SapBm": "2300550001/97",
+        "Megnevezes": "LLSOZ156C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/31",
+        "SapBm": "2300550001/98",
+        "Megnevezes": "LLSOZ157A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/02",
+        "SapBm": "2300550002/08",
+        "Megnevezes": "LLSOZ158C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/09",
+        "SapBm": "",
+        "Megnevezes": "NG20Z030A",
+        "Darab": 4
+      },
+      {
+        "SapNy": "2300550001/01",
+        "SapBm": "",
+        "Megnevezes": "LL10R006A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/10",
+        "SapBm": "2300550001/83",
+        "Megnevezes": "LL12Z119PBB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/11",
+        "SapBm": "2300550001/84",
+        "Megnevezes": "LL12Z120B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/15",
+        "SapBm": "2300550001/88",
+        "Megnevezes": "LL12Z127C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/22",
+        "SapBm": "",
+        "Megnevezes": "LLSOR023A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/23",
+        "SapBm": "",
+        "Megnevezes": "LLSOR024",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/24",
+        "SapBm": "2300550001/91",
+        "Megnevezes": "LLSOZ129A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/25",
+        "SapBm": "2300550001/92",
+        "Megnevezes": "LLSOZ132A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/28",
+        "SapBm": "2300550001/95",
+        "Megnevezes": "LLSOZ154C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/33",
+        "SapBm": "2300550001/100",
+        "Megnevezes": "LLSOZ160D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/17",
+        "SapBm": "",
+        "Megnevezes": "LL15R002PBA",
+        "Darab": 1
+      }
+    ],
+    "Folyamatok": [
+      "LPV1 munkaállomás - összeszerelés",
+      "LPS1 munkaállomás - összeszerelés",
+      "LPS2 munkaállomás - összeszerelés",
+      "LPS3 munkaállomás - összeszerelés",
+      "LPS4 munkaállomás - összeszerelés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SAP": "300550001",
+    "Megnevezes": "Lidl Germany 1-stepper XL C625 V1.35 (Scale Right)",
+    "DBora": "60",
+    "Level": "2",
+    "ChildParts": [
+      {
+        "SapNy": "2300550001/02",
+        "SapBm": "",
+        "Megnevezes": "LL10R018A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/03",
+        "SapBm": "",
+        "Megnevezes": "LL10R019",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/04",
+        "SapBm": "2300550001/77",
+        "Megnevezes": "LL10Z006C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/05",
+        "SapBm": "2300550001/78",
+        "Megnevezes": "LL12Z090",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/06",
+        "SapBm": "2300550001/79",
+        "Megnevezes": "LL12Z108C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/07",
+        "SapBm": "2300550001/80",
+        "Megnevezes": "LL12Z109PBC",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/08",
+        "SapBm": "2300550001/81",
+        "Megnevezes": "LL12Z113PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/09",
+        "SapBm": "2300550001/82",
+        "Megnevezes": "LL12Z117",
+        "Darab": 3
+      },
+      {
+        "SapNy": "2300550001/12",
+        "SapBm": "2300550001/85",
+        "Megnevezes": "LL12Z121A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/13",
+        "SapBm": "2300550001/86",
+        "Megnevezes": "LL12Z122C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/14",
+        "SapBm": "2300550001/87",
+        "Megnevezes": "LL12Z123B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/16",
+        "SapBm": "2300550001/89",
+        "Megnevezes": "LL12Z130",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/18",
+        "SapBm": "2300550001/90",
+        "Megnevezes": "LL15Z010A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/19",
+        "SapBm": "",
+        "Megnevezes": "LL20R020B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/20",
+        "SapBm": "",
+        "Megnevezes": "LLSOR001",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/21",
+        "SapBm": "",
+        "Megnevezes": "LLSOR022",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/26",
+        "SapBm": "2300550001/93",
+        "Megnevezes": "LLSOZ149D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/27",
+        "SapBm": "2300550001/94",
+        "Megnevezes": "LLSOZ150C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/29",
+        "SapBm": "2300550001/96",
+        "Megnevezes": "LLSOZ155C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/30",
+        "SapBm": "2300550001/97",
+        "Megnevezes": "LLSOZ156C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/31",
+        "SapBm": "2300550001/98",
+        "Megnevezes": "LLSOZ157A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/02",
+        "SapBm": "2300550002/08",
+        "Megnevezes": "LLSOZ158C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/09",
+        "SapBm": "",
+        "Megnevezes": "NG20Z030A",
+        "Darab": 4
+      },
+      {
+        "SapNy": "2300550001/01",
+        "SapBm": "",
+        "Megnevezes": "LL10R006A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/10",
+        "SapBm": "2300550001/83",
+        "Megnevezes": "LL12Z119PBB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/11",
+        "SapBm": "2300550001/84",
+        "Megnevezes": "LL12Z120B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/15",
+        "SapBm": "2300550001/88",
+        "Megnevezes": "LL12Z127C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/22",
+        "SapBm": "",
+        "Megnevezes": "LLSOR023A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/23",
+        "SapBm": "",
+        "Megnevezes": "LLSOR024",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/24",
+        "SapBm": "2300550001/91",
+        "Megnevezes": "LLSOZ129A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/01",
+        "SapBm": "2300550002/07",
+        "Megnevezes": "LLSOZ127B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/28",
+        "SapBm": "2300550001/95",
+        "Megnevezes": "LLSOZ154C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/33",
+        "SapBm": "2300550001/100",
+        "Megnevezes": "LLSOZ160D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/17",
+        "SapBm": "",
+        "Megnevezes": "LL15R002PBA",
+        "Darab": 1
+      }
+    ],
+    "Folyamatok": [
+      "LPV1 munkaállomás - összeszerelés",
+      "LPS1 munkaállomás - összeszerelés",
+      "LPS2 munkaállomás - összeszerelés",
+      "LPS3 munkaállomás - összeszerelés",
+      "LPS4 munkaállomás - összeszerelés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SAP": "300550006",
+    "Megnevezes": "Lidl Italy 1-stepper XL C625 V1.35 (Scale Left)",
+    "DBora": "60",
+    "Level": "2",
+    "ChildParts": [
+      {
+        "SapNy": "2300550001/02",
+        "SapBm": "",
+        "Megnevezes": "LL10R018A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/03",
+        "SapBm": "",
+        "Megnevezes": "LL10R019",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/04",
+        "SapBm": "2300550001/77",
+        "Megnevezes": "LL10Z006C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/05",
+        "SapBm": "2300550001/78",
+        "Megnevezes": "LL12Z090",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/06",
+        "SapBm": "2300550001/79",
+        "Megnevezes": "LL12Z108C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/07",
+        "SapBm": "2300550001/80",
+        "Megnevezes": "LL12Z109PBC",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/08",
+        "SapBm": "2300550001/81",
+        "Megnevezes": "LL12Z113PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/09",
+        "SapBm": "2300550001/82",
+        "Megnevezes": "LL12Z117",
+        "Darab": 3
+      },
+      {
+        "SapNy": "2300550001/12",
+        "SapBm": "2300550001/85",
+        "Megnevezes": "LL12Z121A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/13",
+        "SapBm": "2300550001/86",
+        "Megnevezes": "LL12Z122C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/14",
+        "SapBm": "2300550001/87",
+        "Megnevezes": "LL12Z123B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/01",
+        "SapBm": "2300550006/17",
+        "Megnevezes": "LL12Z142PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/18",
+        "SapBm": "2300550001/90",
+        "Megnevezes": "LL15Z010A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/19",
+        "SapBm": "",
+        "Megnevezes": "LL20R020B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/20",
+        "SapBm": "",
+        "Megnevezes": "LLSOR001",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/21",
+        "SapBm": "",
+        "Megnevezes": "LLSOR022",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/26",
+        "SapBm": "2300550001/93",
+        "Megnevezes": "LLSOZ149D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/27",
+        "SapBm": "2300550001/94",
+        "Megnevezes": "LLSOZ150C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/02",
+        "SapBm": "2300550006/03",
+        "Megnevezes": "LLSOZ155E",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/30",
+        "SapBm": "2300550001/97",
+        "Megnevezes": "LLSOZ156C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/31",
+        "SapBm": "2300550001/98",
+        "Megnevezes": "LLSOZ157A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/10",
+        "SapBm": "2300550006/11",
+        "Megnevezes": "LLSOZ168B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/09",
+        "SapBm": "",
+        "Megnevezes": "NG20Z030A",
+        "Darab": 4
+      },
+      {
+        "SapNy": "2300550001/01",
+        "SapBm": "",
+        "Megnevezes": "LL10R006A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/06",
+        "SapBm": "2300550006/07",
+        "Megnevezes": "LLSOZ160E",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/28",
+        "SapBm": "2300550001/95",
+        "Megnevezes": "LLSOZ154C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/25",
+        "SapBm": "2300550001/92",
+        "Megnevezes": "LLSOZ132A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/24",
+        "SapBm": "2300550001/91",
+        "Megnevezes": "LLSOZ129A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/23",
+        "SapBm": "",
+        "Megnevezes": "LLSOR024",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/22",
+        "SapBm": "",
+        "Megnevezes": "LLSOR023A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/17",
+        "SapBm": "",
+        "Megnevezes": "LL15R002PBA",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/15",
+        "SapBm": "2300550001/88",
+        "Megnevezes": "LL12Z127C",
+        "Darab": 1
+      }
+    ],
+    "Folyamatok": [
+      "LPV1 munkaállomás - összeszerelés",
+      "LPS1 munkaállomás - összeszerelés",
+      "LPS2 munkaállomás - összeszerelés",
+      "LPS3 munkaállomás - összeszerelés",
+      "LPS4 munkaállomás - összeszerelés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SAP": "300550005",
+    "Megnevezes": "Lidl Italy 1-stepper XL C625 V1.35 (Scale Right)",
+    "DBora": "60",
+    "Level": "2",
+    "ChildParts": [
+      {
+        "SapNy": "2300550001/02",
+        "SapBm": "",
+        "Megnevezes": "LL10R018A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/03",
+        "SapBm": "",
+        "Megnevezes": "LL10R019",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/04",
+        "SapBm": "2300550001/77",
+        "Megnevezes": "LL10Z006C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/05",
+        "SapBm": "2300550001/78",
+        "Megnevezes": "LL12Z090",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/06",
+        "SapBm": "2300550001/79",
+        "Megnevezes": "LL12Z108C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/07",
+        "SapBm": "2300550001/80",
+        "Megnevezes": "LL12Z109PBC",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/08",
+        "SapBm": "2300550001/81",
+        "Megnevezes": "LL12Z113PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/09",
+        "SapBm": "2300550001/82",
+        "Megnevezes": "LL12Z117",
+        "Darab": 3
+      },
+      {
+        "SapNy": "2300550001/12",
+        "SapBm": "2300550001/85",
+        "Megnevezes": "LL12Z121A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/13",
+        "SapBm": "2300550001/86",
+        "Megnevezes": "LL12Z122C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/14",
+        "SapBm": "2300550001/87",
+        "Megnevezes": "LL12Z123B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/01",
+        "SapBm": "2300550006/17",
+        "Megnevezes": "LL12Z142PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/18",
+        "SapBm": "2300550001/90",
+        "Megnevezes": "LL15Z010A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/19",
+        "SapBm": "",
+        "Megnevezes": "LL20R020B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/20",
+        "SapBm": "",
+        "Megnevezes": "LLSOR001",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/21",
+        "SapBm": "",
+        "Megnevezes": "LLSOR022",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/26",
+        "SapBm": "2300550001/93",
+        "Megnevezes": "LLSOZ149D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/27",
+        "SapBm": "2300550001/94",
+        "Megnevezes": "LLSOZ150C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/02",
+        "SapBm": "2300550006/03",
+        "Megnevezes": "LLSOZ155E",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/30",
+        "SapBm": "2300550001/97",
+        "Megnevezes": "LLSOZ156C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/31",
+        "SapBm": "2300550001/98",
+        "Megnevezes": "LLSOZ157A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550005/01",
+        "SapBm": "2300550005/02",
+        "Megnevezes": "LLSOZ167B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/09",
+        "SapBm": "",
+        "Megnevezes": "NG20Z030A",
+        "Darab": 4
+      },
+      {
+        "SapNy": "2300550001/01",
+        "SapBm": "",
+        "Megnevezes": "LL10R006A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/06",
+        "SapBm": "2300550006/07",
+        "Megnevezes": "LLSOZ160E",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/28",
+        "SapBm": "2300550001/95",
+        "Megnevezes": "LLSOZ154C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/24",
+        "SapBm": "2300550001/91",
+        "Megnevezes": "LLSOZ129A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/01",
+        "SapBm": "2300550002/07",
+        "Megnevezes": "LLSOZ127B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/23",
+        "SapBm": "",
+        "Megnevezes": "LLSOR024",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/22",
+        "SapBm": "",
+        "Megnevezes": "LLSOR023A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/17",
+        "SapBm": "",
+        "Megnevezes": "LL15R002PBA",
+        "Darab": 1
+      }
+    ],
+    "Folyamatok": [
+      "LPV1 munkaállomás - összeszerelés",
+      "LPS1 munkaállomás - összeszerelés",
+      "LPS2 munkaállomás - összeszerelés",
+      "LPS3 munkaállomás - összeszerelés",
+      "LPS4 munkaállomás - összeszerelés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SAP": "300550008",
+    "Megnevezes": "Lidl Italy 1-stepper L C625 V1.35 (Scale Left)",
+    "DBora": "60",
+    "Level": "2",
+    "ChildParts": [
+      {
+        "SapNy": "2300550003/01",
+        "SapBm": "",
+        "Megnevezes": "LL10R008A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/02",
+        "SapBm": "",
+        "Megnevezes": "LL10R018A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/03",
+        "SapBm": "",
+        "Megnevezes": "LL10R019",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/04",
+        "SapBm": "2300550001/77",
+        "Megnevezes": "LL10Z006C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/05",
+        "SapBm": "2300550001/78",
+        "Megnevezes": "LL12Z090",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/06",
+        "SapBm": "2300550001/79",
+        "Megnevezes": "LL12Z108C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/07",
+        "SapBm": "2300550001/80",
+        "Megnevezes": "LL12Z109PBC",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/08",
+        "SapBm": "2300550001/81",
+        "Megnevezes": "LL12Z113PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/09",
+        "SapBm": "2300550001/82",
+        "Megnevezes": "LL12Z117",
+        "Darab": 2
+      },
+      {
+        "SapNy": "2300550001/12",
+        "SapBm": "2300550001/85",
+        "Megnevezes": "LL12Z121A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/13",
+        "SapBm": "2300550001/86",
+        "Megnevezes": "LL12Z122C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/14",
+        "SapBm": "2300550001/87",
+        "Megnevezes": "LL12Z123B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/02",
+        "SapBm": "2300550003/22",
+        "Megnevezes": "LL12Z128B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/01",
+        "SapBm": "2300550006/17",
+        "Megnevezes": "LL12Z142PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/03",
+        "SapBm": "",
+        "Megnevezes": "LL15R003PBA",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/18",
+        "SapBm": "2300550001/90",
+        "Megnevezes": "LL15Z010A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/19",
+        "SapBm": "",
+        "Megnevezes": "LL20R020B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/20",
+        "SapBm": "",
+        "Megnevezes": "LLSOR001",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/21",
+        "SapBm": "",
+        "Megnevezes": "LLSOR022",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/04",
+        "SapBm": "",
+        "Megnevezes": "LLSOR025A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/05",
+        "SapBm": "",
+        "Megnevezes": "LLSOR026",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550004/01",
+        "SapBm": "2300550004/04",
+        "Megnevezes": "LLSOZ137A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/07",
+        "SapBm": "2300550003/24",
+        "Megnevezes": "LLSOZ138A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/26",
+        "SapBm": "2300550001/93",
+        "Megnevezes": "LLSOZ149D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/27",
+        "SapBm": "2300550001/94",
+        "Megnevezes": "LLSOZ150C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/02",
+        "SapBm": "2300550006/03",
+        "Megnevezes": "LLSOZ155E",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/30",
+        "SapBm": "2300550001/97",
+        "Megnevezes": "LLSOZ156C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/31",
+        "SapBm": "2300550001/98",
+        "Megnevezes": "LLSOZ157A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/10",
+        "SapBm": "2300550006/11",
+        "Megnevezes": "LLSOZ168B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/08",
+        "SapBm": "2300550003/25",
+        "Megnevezes": "LLSOZ161C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/09",
+        "SapBm": "2300550003/26",
+        "Megnevezes": "LLSOZ162D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/09",
+        "SapBm": "",
+        "Megnevezes": "NG20Z030A",
+        "Darab": 4
+      }
+    ],
+    "Folyamatok": [
+      "LPV1 munkaállomás - összeszerelés",
+      "LPS1 munkaállomás - összeszerelés",
+      "LPS2 munkaállomás - összeszerelés",
+      "LPS3 munkaállomás - összeszerelés",
+      "LPS4 munkaállomás - összeszerelés"
+    ]
+  },
+  {
+    "Megrendelo": "PanOston",
+    "SAP": "300550007",
+    "Megnevezes": "Lidl Italy 1-stepper L C625 V1.35 (Scale Right)",
+    "DBora": "60",
+    "Level": "2",
+    "ChildParts": [
+      {
+        "SapNy": "2300550003/01",
+        "SapBm": "",
+        "Megnevezes": "LL10R008A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/02",
+        "SapBm": "",
+        "Megnevezes": "LL10R018A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/03",
+        "SapBm": "",
+        "Megnevezes": "LL10R019",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/04",
+        "SapBm": "2300550001/77",
+        "Megnevezes": "LL10Z006C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/05",
+        "SapBm": "2300550001/78",
+        "Megnevezes": "LL12Z090",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/06",
+        "SapBm": "2300550001/79",
+        "Megnevezes": "LL12Z108C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/07",
+        "SapBm": "2300550001/80",
+        "Megnevezes": "LL12Z109PBC",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/08",
+        "SapBm": "2300550001/81",
+        "Megnevezes": "LL12Z113PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/09",
+        "SapBm": "2300550001/82",
+        "Megnevezes": "LL12Z117",
+        "Darab": 2
+      },
+      {
+        "SapNy": "2300550001/12",
+        "SapBm": "2300550001/85",
+        "Megnevezes": "LL12Z121A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/13",
+        "SapBm": "2300550001/86",
+        "Megnevezes": "LL12Z122C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/14",
+        "SapBm": "2300550001/87",
+        "Megnevezes": "LL12Z123B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/02",
+        "SapBm": "2300550003/22",
+        "Megnevezes": "LL12Z128B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/01",
+        "SapBm": "2300550006/17",
+        "Megnevezes": "LL12Z142PB",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/03",
+        "SapBm": "",
+        "Megnevezes": "LL15R003PBA",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/18",
+        "SapBm": "2300550001/90",
+        "Megnevezes": "LL15Z010A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/19",
+        "SapBm": "",
+        "Megnevezes": "LL20R020B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/20",
+        "SapBm": "",
+        "Megnevezes": "LLSOR001",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/21",
+        "SapBm": "",
+        "Megnevezes": "LLSOR022",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/04",
+        "SapBm": "",
+        "Megnevezes": "LLSOR025A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/05",
+        "SapBm": "",
+        "Megnevezes": "LLSOR026",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/06",
+        "SapBm": "2300550003/23",
+        "Megnevezes": "LLSOZ136A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/07",
+        "SapBm": "2300550003/24",
+        "Megnevezes": "LLSOZ138A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/26",
+        "SapBm": "2300550001/93",
+        "Megnevezes": "LLSOZ149D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/27",
+        "SapBm": "2300550001/94",
+        "Megnevezes": "LLSOZ150C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550006/02",
+        "SapBm": "2300550006/03",
+        "Megnevezes": "LLSOZ155E",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/30",
+        "SapBm": "2300550001/97",
+        "Megnevezes": "LLSOZ156C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550001/31",
+        "SapBm": "2300550001/98",
+        "Megnevezes": "LLSOZ157A",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550005/01",
+        "SapBm": "2300550005/02",
+        "Megnevezes": "LLSOZ167B",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/08",
+        "SapBm": "2300550003/25",
+        "Megnevezes": "LLSOZ161C",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550003/09",
+        "SapBm": "2300550003/26",
+        "Megnevezes": "LLSOZ162D",
+        "Darab": 1
+      },
+      {
+        "SapNy": "2300550002/09",
+        "SapBm": "",
+        "Megnevezes": "NG20Z030A",
+        "Darab": 4
+      }
+    ],
+    "Folyamatok": [
+      "LPV1 munkaállomás - összeszerelés",
+      "LPS1 munkaállomás - összeszerelés",
+      "LPS2 munkaállomás - összeszerelés",
+      "LPS3 munkaállomás - összeszerelés",
+      "LPS4 munkaállomás - összeszerelés"
+    ]
+  }
+]
